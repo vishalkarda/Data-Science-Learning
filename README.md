@@ -22,7 +22,7 @@ If you find any issues with the code, have suggestions for improvements, or want
 If you have questions, feedback, or just want to connect, you can reach me via:
 
 - Email: vishalkarda01@email.com
-- LinkedIn: [Vishal-Karda]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/vishal-karda/))
+- LinkedIn: https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/vishal-karda/
 
 Happy coding and exploring the world of technology!
 
